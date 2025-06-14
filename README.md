@@ -27,7 +27,8 @@
 ## 四、交流与支持（非官方交流群）
 
 - QQ 交流群：欢迎扫码加入 QQ 群，与众多开发者交流使用经验、反馈问题（群内可能有热心大佬提供帮助，但非官方技术支持）。
-- ![Uploading image.png…]()
+- ![image](https://github.com/user-attachments/assets/eab9c529-8bb7-41a8-936f-731b3bce3059)
+
 
 
 
