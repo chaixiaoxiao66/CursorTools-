@@ -27,7 +27,8 @@
 ## 四、交流与支持（非官方交流群）
 
 - QQ 交流群：欢迎扫码加入 QQ 群，与众多开发者交流使用经验、反馈问题（群内可能有热心大佬提供帮助，但非官方技术支持）。
-- ![image](https://github.com/user-attachments/assets/dbfd77c4-cc91-4612-a37a-53fb7de256c2)
+- ![Uploading image.png…]()
+
 
 
 ## 五、问题描述(Cursor 免费版常见错误)
