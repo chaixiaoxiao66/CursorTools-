@@ -23,6 +23,7 @@
 - 下载地址：[Cursor Tools 助手](https://www.123684.com/s/XRzovd-Yv5Y)
 - 版本更新：请关注发布渠道获取最新版本，以兼容最新的 Cursor 编辑器。
 - Git地址：https://www.123684.com/s/XRzovd-Nd5Y
+![image](https://github.com/user-attachments/assets/aa2af356-b800-48b8-98e4-a82cafa53978)
 
 ## 四、交流与支持（非官方交流群）
 
