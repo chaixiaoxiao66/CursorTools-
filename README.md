@@ -91,7 +91,11 @@ Request ID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
   - 清除浏览器缓存并重试
 
 ## 七、系统支持
-暂时无法在飞书文档外展示此内容
+| Operating System | Architecture      | Supported |
+|------------------|-------------------|-----------|
+| Windows          | x64, x86          | ✅         |
+| macOS            | Intel, Apple Silicon | ✅      |
+| Linux            | x64, x86, ARM64   | ✅         |
 
 ## 八、免费额度说明
 - CursorTools 本身可永久免费使用。
